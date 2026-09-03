@@ -1,0 +1,14 @@
+Package: w96-project-generator
+Version: 0.1.0
+Architecture: amd64
+Maintainer: windows10fan648
+Filename: pool/main/w/w96-project-generator/w96-project-generator_0.1.0_amd64.deb
+Size: 178504
+MD5sum: 5755d3c5e3d89d2b3f411d715ae22dbe
+SHA1: 12d7c9ca569da52075f19d4747b38583d1441718
+SHA256: dd31b057333265109d43c8bde19960d19e77ba84740490ccc253f50cff6c8c13
+Section: devel
+Priority: optional
+Description: Windows 96 WDT project generator
+ Rust-based project generator for Windows 96 Development Toolchain applications.
+
