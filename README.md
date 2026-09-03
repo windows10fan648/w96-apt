@@ -17,7 +17,7 @@ The Windows 96 APT repository provides packages for Windows 96 development tools
 Create an APT sources file:
 
 ```bash
-echo "deb https://w96apt.duckdns.org stable main" | sudo tee /etc/apt/sources.list.d/w96.list
+echo "deb [trusted=yes] https://w96apt.duckdns.org stable main" | sudo tee /etc/apt/sources.list.d/w96.list
 ```
 
 ### 2. Update package lists
