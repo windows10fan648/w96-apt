@@ -1,0 +1,13 @@
+Origin: Windows 96
+Label: Windows 96 APT Repository
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Windows 96 APT package repository
+MD5Sum:
+ 4301af6631b5decaed45eb2b2fa0ee80 512 main/binary-amd64/Packages
+SHA1:
+ bb935d814b6ebfd3ebb892976f396c7d880d1f1a 512 main/binary-amd64/Packages
+SHA256:
+ 4bbe3cafed5f5d73a52c594aa4d4b9667c8666d45659a15fe20d388423002623 512 main/binary-amd64/Packages
